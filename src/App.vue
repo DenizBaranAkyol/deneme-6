@@ -11,6 +11,14 @@
   <button class="red -sm ">asdasdas</button>
 
   <button class="green -sm ">adc</button>
+
+  <button class="green -sm ">adasdasdc</button>
+
+  
+  <button class="green -sm ">adasdasdc</button>
+
+  
+  <button class="green -sm ">adasdasdc</button>
 </template>
 <script>
 import AddSection from "@/components/AddSection";

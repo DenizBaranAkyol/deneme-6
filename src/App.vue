@@ -9,6 +9,8 @@
   </div>
 
   <button class="red -sm ">asdasdas</button>
+
+  <button class="green -sm ">adc</button>
 </template>
 <script>
 import AddSection from "@/components/AddSection";
